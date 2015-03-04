@@ -1,2 +1,0 @@
-# cmsblog
-Blog
