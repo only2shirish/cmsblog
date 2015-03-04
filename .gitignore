@@ -1,0 +1,7 @@
+config/
+node_modules/
+models/
+bin/
+package.json
+app.js
+README.md
