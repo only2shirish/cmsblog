@@ -1,6 +1,6 @@
 {
-  "name": "cmsBlog",
-  "version": "0.0.0",
+  "name": "Blog",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -17,5 +17,18 @@
     "sequelize-cli": "^1.3.1",
     "serve-favicon": "~2.2.0",
     "stylus": "0.42.3"
-  }
+  },
+  "description": "Blog",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:only1shirish/cmsblog.git"
+  },
+  "keywords": [
+    "blog",
+    "post"
+  ],
+  "author": "Shirish Patel (Alexander)",
+  "license": "ISC"
 }
